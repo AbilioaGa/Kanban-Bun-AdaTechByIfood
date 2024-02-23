@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "cSpell.words": [
+    "elysia",
+    "elysiajs",
+    "paralleldrive",
+    "dayjs",
+    "typebox",
+    "Kanbanana"
+  ]
+}
